@@ -1,5 +1,5 @@
 <h1 align="center">Opa 👋, eu sou a Yasmim (yasmim-github)</h1>
-<h3 align="center">Estudante de ADS na UNISUL</h3>
+<p align="center">Estudante de ADS na UNISUL</p>
 
 - 🔭 Estou trabalhando atualmente no : [To-do Java App](https://github.com/yasmim-github/todo-gui-app)
 
