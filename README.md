@@ -1,8 +1,7 @@
 <h1 align="center">Opa 👋, eu sou a Yasmim (yasmim-github)</h1>
 <p align="left">Estudante de ADS na UNISUL</p>
 
-- 🔭 Estou trabalhando atualmente no : [To-do Java App](https://github.com/yasmim-github/todo-gui-app)
-- ☕ Desenvolvendo um jogo : **2D Adventure**
+- 🔭 Estou desenvolvendo um software de desenho em python
 
 <h3 align="left">Conexões:</h3>
 <p align="left">
